@@ -1,6 +1,6 @@
 # firstNonRepeated
 
-## Solution code below
+## Solution code in TypeScript below
 
 ```
 function firstNonRepeated(s: string): string {
